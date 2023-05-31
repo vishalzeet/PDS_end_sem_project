@@ -17,7 +17,6 @@ Gameplay:
 - Players must allow the ball to bounce once on their side of the table before returning it (unless it is a smash or volley).
 
 
-## Appendix
 
 Any additional information goes here
 Scoring:
